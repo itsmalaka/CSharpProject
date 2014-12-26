@@ -1,0 +1,5 @@
+c:\users\kay\documents\visual studio 2010\Projects\RESTServicesJSONParserExample\RESTServicesJSONParserExample\bin\Debug\RESTServicesJSONParserExample.exe
+c:\users\kay\documents\visual studio 2010\Projects\RESTServicesJSONParserExample\RESTServicesJSONParserExample\bin\Debug\RESTServicesJSONParserExample.pdb
+c:\users\kay\documents\visual studio 2010\Projects\RESTServicesJSONParserExample\RESTServicesJSONParserExample\obj\x86\Debug\RESTServicesJSONParserExample.exe
+c:\users\kay\documents\visual studio 2010\Projects\RESTServicesJSONParserExample\RESTServicesJSONParserExample\obj\x86\Debug\RESTServicesJSONParserExample.pdb
+C:\Users\kay\documents\visual studio 2010\Projects\RESTServicesJSONParserExample\RESTServicesJSONParserExample\bin\Debug\RESTServicesJSONParserExample.exe.config

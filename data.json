@@ -1,2 +1,4 @@
-{"Title":"Company Ltd","Employees":[{"Name":"Mark CEO","EmployeeType":0},{"Name":"Matija 
-Božičević","EmployeeType":1},{"Name":"Steve Developer","EmployeeType":1}]}
+{"Title":"Company Ltd",
+	"Employees":[{"Name":"Mark CEO","EmployeeType":0},
+				{"Name":"Matija Božičević","EmployeeType":1}
+				,{"Name":"Steve Developer","EmployeeType":1}]}
