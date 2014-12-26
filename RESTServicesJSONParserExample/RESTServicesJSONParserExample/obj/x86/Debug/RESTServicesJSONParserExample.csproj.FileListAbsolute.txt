@@ -3,3 +3,9 @@ c:\users\kay\documents\visual studio 2010\Projects\RESTServicesJSONParserExample
 c:\users\kay\documents\visual studio 2010\Projects\RESTServicesJSONParserExample\RESTServicesJSONParserExample\obj\x86\Debug\RESTServicesJSONParserExample.exe
 c:\users\kay\documents\visual studio 2010\Projects\RESTServicesJSONParserExample\RESTServicesJSONParserExample\obj\x86\Debug\RESTServicesJSONParserExample.pdb
 C:\Users\kay\documents\visual studio 2010\Projects\RESTServicesJSONParserExample\RESTServicesJSONParserExample\bin\Debug\RESTServicesJSONParserExample.exe.config
+C:\Users\aa\Documents\GitHub\CSharpProject\RESTServicesJSONParserExample\RESTServicesJSONParserExample\bin\Debug\RESTServicesJSONParserExample.exe.config
+C:\Users\aa\Documents\GitHub\CSharpProject\RESTServicesJSONParserExample\RESTServicesJSONParserExample\obj\x86\Debug\RESTServicesJSONParserExample.exe
+C:\Users\aa\Documents\GitHub\CSharpProject\RESTServicesJSONParserExample\RESTServicesJSONParserExample\obj\x86\Debug\RESTServicesJSONParserExample.pdb
+C:\Users\aa\Documents\GitHub\CSharpProject\RESTServicesJSONParserExample\RESTServicesJSONParserExample\bin\Debug\RESTServicesJSONParserExample.exe
+C:\Users\aa\Documents\GitHub\CSharpProject\RESTServicesJSONParserExample\RESTServicesJSONParserExample\bin\Debug\RESTServicesJSONParserExample.pdb
+C:\Users\aa\Documents\GitHub\CSharpProject\RESTServicesJSONParserExample\RESTServicesJSONParserExample\obj\x86\Debug\RESTServicesJSONParserExample.csprojResolveAssemblyReference.cache
